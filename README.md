@@ -5,7 +5,7 @@ This is c program to learning about contigous memory allocation techniques (best
 
 
 ## Related Repositories
-* [Worst Fit](https://github.com/ibnuhalimm/memory-best-fit "Worst Fit")
+* [Worst Fit](https://github.com/ibnuhalimm/memory-worst-fit "Worst Fit")
 * [First Fit](https://github.com/ibnuhalimm/memory-first-fit "First Fit")
 
 
